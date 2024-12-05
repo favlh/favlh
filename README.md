@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a Linux enthusiast, a budding DevOps engineer,
 
 ## 💻 About Me
 
-- 🔭 Currently exploring **Linux ricing** and improving my **backend engineering** skills.
+- 🔭 Currently learning **programming languages** and improving my **backend engineering** skills.
 - 🌱 Learning **NixOS** for declarative setups and efficient workflows.
 - 📚 Studying **Bash scripting**, **Python, Javascripts**, and **DevOps tools**.
 - 💡 Interested in **cloud technologies** and **open-source projects**.
