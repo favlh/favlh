@@ -59,5 +59,5 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&redirect=true)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=favlh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31x5iokcu2w3vpluwopw2lljno74&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31x5iokcu2w3vpluwopw2lljno74&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]] alt="Profile views" />
 </div>
