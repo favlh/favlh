@@ -41,9 +41,6 @@ I enjoy tinkering with **desktop environments** and building **minimalis setups*
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=favlh&layout=compact&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=favlh&show_icons=true&theme=radical&count_private=true&hide=prs&show_owner=true)
-
-
 ---
 
 ## 🎯 My Goals
