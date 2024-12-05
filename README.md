@@ -13,16 +13,16 @@
 - ⚡ Fun fact: **I love my Nokturnal creature**
 
 ## 🏆 GitHub Trophy
-![Trophy](https://github-profile-trophy.vercel.app/?username=excelyno&theme=onedark&column=8)
+![Trophy](https://github-profile-trophy.vercel.app/?username=favlh&theme=onedark&column=8)
 
 ## 📊 GitHub Statistics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=excelyno&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=excelyno&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=favlh&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=favlh&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=excelyno&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=favlh&theme=radical" />
 </p>
 
 <!-- Animasi untuk judul -->
@@ -35,10 +35,9 @@
 ## 🛠️ Skills
 ### 👉 Programming Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="golang" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" />
+ 
 </p>
 
 ## 🤝 Connect With Me
@@ -57,7 +56,3 @@
 ## 🎵 My Spotify Profile
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&redirect=true)
-
-<div align="center">
-  <img src="[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31x5iokcu2w3vpluwopw2lljno74&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31x5iokcu2w3vpluwopw2lljno74&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]] alt="Profile views" />
-</div>
