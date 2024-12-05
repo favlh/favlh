@@ -10,7 +10,7 @@
 
 - 🎓 **Education**: Currently studying at **SMK Negeri 2 Jember**
 - 🔧 **Field of Study**: **DevOps Engineer**
-- 💭 **Discussion Interests**: Anything, as long as it’s not too serious... or way too serious!
+- 💭 **Discussion Interests**: Anything, as long i know what the topics are
 - 📩 **Contact**: You can reach me at **firjat809@gmail.com**
 - ✨ **Fun Fact**: Sometimes, being alone is better than being in a crowd.
 
