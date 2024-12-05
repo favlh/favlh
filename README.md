@@ -71,7 +71,5 @@
 
 ### 👀 Profile Views
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=favlh&color=brightgreen)
+  <img src="https://komarev.com/ghpvc/?username=favlh&color=brightgreen" alt="Profile Views">
 </p>
-
-
