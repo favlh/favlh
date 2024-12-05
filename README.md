@@ -24,8 +24,8 @@ Welcome to my GitHub profile! I'm a Linux enthusiast, a budding DevOps engineer,
 ## 📫 Let's Connect!
 
 - 📧 Email: [firjat809@gmail.com](mailto:firjat809@gmail.com)
-- 🐦 Twitter: [@yourusername](https://twitter.com/yourusername)
-- 💼 LinkedIn: [Favian](https://linkedin.com/in/yourusername)
+- 🐦 Instagram: [@favlh](https://instagram.com/favlh_)
+- 💼 LinkedIn: [Favian](https://linkedin.com/in/favian-firjatullah)
 
 ---
 
@@ -37,9 +37,9 @@ I enjoy tinkering with **desktop environments** and building **minimalis setups*
 
 ## 📊 GitHub Stats
 
-![Favian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Favian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=favlh&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=favlh&layout=compact&theme=radical)
 
 ---
 
