@@ -10,7 +10,7 @@
 - 🌱 I'm currently learning **DevOps**
 - 💬 Ask me about **something**
 - 📫 How to reach me: **firjat809@gmail.com**
-- ⚡ Fun fact: **I love my Nokturnal creature**
+- ⚡ Fun fact: **Sometimes being alone more helpful than being with someone else**
 
 ## 🏆 GitHub Trophy
 ![Trophy](https://github-profile-trophy.vercel.app/?username=favlh&theme=onedark&column=8)
@@ -54,6 +54,3 @@
 [![Favian github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=favlh&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🎵 My Spotify Profile
-
-[![spotify-github-profile]([![Spotify Status](https://spotify-now-badge.vercel.app/api/now-playing?user=31x5iokcu2w3vpluwopw2lijno74)](https://spotify-now-badge.vercel.app)
-)
