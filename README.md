@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://pixabay.com/photos/pen-notebook-notepad-diary-4337524" width="350px" style="margin-top: 15px; margin-bottom: 15px;" alt="Computer Illustration">
+  <img src="https://pixabay.com/photos/pen-notebook-notepad-diary-4337524.png" width="350px" style="margin-top: 15px; margin-bottom: 15px;" alt="Computer Illustration">
 </div>
 
 ## 👋 About Me
