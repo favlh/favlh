@@ -44,8 +44,6 @@ I enjoy tinkering with **desktop environments** and building **minimalist setups
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=favlh&show_icons=true&theme=radical" alt="Favian's GitHub Stats">
   <br/>
