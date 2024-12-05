@@ -64,3 +64,7 @@
 
 ## 🎶 Find Me on Spotify
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31x5iokcu2w3vpluwopw2lljno74&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31x5iokcu2w3vpluwopw2lljno74&redirect=true)
+
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=favlh&color=brightgreen)
+
