@@ -24,8 +24,8 @@ Welcome to my GitHub profile! I'm a Linux enthusiast, a budding DevOps engineer,
 ## 📫 Let's Connect!
 
 - 📧 Email: [firjat809@gmail.com](mailto:firjat809@gmail.com)
-- 🐦 Instagram: [@favlh](https://instagram.com/favlh_)
-- 💼 LinkedIn: [Favian](https://linkedin.com/in/favian-firjatullah)
+- 🐦 Instagram: [favian firjatullah](https://instagram.com/favlh_)
+- 💼 LinkedIn: [Favian Firjatullah](https://linkedin.com/in/favian-firjatullah)
 
 ---
 
