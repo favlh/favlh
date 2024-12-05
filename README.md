@@ -41,6 +41,14 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" style="margin-right: 10px;" />
 </p>
 
+### 🛠️ Devops Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="ansible" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="terraform" style="margin-right: 10px;" />
+</p>
+
 ## 🤝 Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/favian-firjatullah-759397311">
