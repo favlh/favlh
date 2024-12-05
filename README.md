@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="[https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)" width="350px" style="margin-top: 15px; margin-bottom: 15px;" alt="Computer Illustration">
+  <img src="[https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png]idth="350px" style="margin-top: 15px; margin-bottom: 15px;" alt="Computer Illustration">
 </div>
 
 ## 👋 About Me
