@@ -63,4 +63,4 @@
 [![GitHub Activity Graph for Favian](https://github-readme-activity-graph.vercel.app/graph?username=favlh&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🎶 Find Me on Spotify
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31x5iokcu2w3vpluwopw2lljno74&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31x5iokcu2w3vpluwopw2lljno74&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31x5iokcu2w3vpluwopw2lljno74&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31x5iokcu2w3vpluwopw2lljno74&redirect=true)
