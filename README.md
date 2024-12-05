@@ -44,13 +44,14 @@ I enjoy tinkering with **desktop environments** and building **minimalist setups
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  ![Favian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=favlh&show_icons=true&theme=radical)
-  <br/>
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=favlh&layout=compact&theme=radical)
-</div>
+## 📊 GitHub Stats
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=favlh&show_icons=true&theme=radical" alt="Favian's GitHub Stats">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=favlh&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
 
 ## 🎯 My Goals
 
