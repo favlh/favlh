@@ -9,9 +9,9 @@
 ## 👋 About Me
 
 - 🎓 **Education**: Currently studying at **SMK Negeri 2 Jember**
-- 🔧 **Now Studying**: **Automation tools, and programming (like javascript, python, C**)
+- 🔧 **Now Studying**: **Automation tools, and programming (like javascript, python**)
 - 💭 **Discussion Interests**: Anything, as long i know what the topics are
-- 📩 **Contact**: You can reach me at **firjat809@gmail.com**
+- 📩 **Contact**: You can reach me at **faviann.firjatullah@gmail.com**
 - ✨ **Fun Fact**: Sometimes, being alone is better than being in a crowd.
 
 ## 🏆 GitHub Achievements
