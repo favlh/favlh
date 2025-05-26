@@ -26,6 +26,7 @@ Ngoding sambil dengerin ost anime? Wajib hukumnya 😎
 ⚙️ Tools   : Git, Docker, VSCode, Ansible (belajar)
 📦 Other   : GitOps (pemula), CLI wizardry, Network Troubleshooting
 
+
 🎨 Vibes Saya
 <p align="center"> <img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="300" /> </p>
 "Coding itu kayak anime: makin dalam, makin nggak bisa lepas."
@@ -39,4 +40,4 @@ Ngoding sambil dengerin ost anime? Wajib hukumnya 😎
 💼 LinkedIn: linkedin.com/in/nfavian-firjatullah
 🧑‍💻 GitHub: github.com/favlh
 
-<p align="center"> <img src="https://animechan.vercel.app/api/random" alt="Anime Quote" /> </p>
+<p align="center"> <img src="https://animechan.vercel.app/api/random" alt="Anime Quote" /> </p> ```
