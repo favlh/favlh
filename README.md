@@ -34,12 +34,6 @@
 <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6gE5aY7N8gXj3eXC/giphy.gif" alt="Anime girl coding" width="300" />
-</p>
-
-
-
 ## 💻 Skills
 ### 🛠️ Basic Knowledge
 <p align="left">
