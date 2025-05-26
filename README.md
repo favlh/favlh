@@ -1,43 +1,75 @@
-<!-- README.md -->
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=40&center=true&vCenter=true&height=60&width=600&lines=Hi+There!+👋;I'm+Favian!;Welcome+to+my+GitHub+Profile!" alt="Title"></img>
+</div>
 
-<h1 align="center">✨ Favian Firjatullah ✨</h1>
+<div align="center">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350px" style="margin-top: 15px; margin-bottom: 15px;" alt="Computer Illustration">
+</div>
 
+## 👋 About Me
+
+- 🎓 **Education**: Currently studying at **SMK Negeri 2 Jember**
+- 🔧 **Now Studying**: **Automation tools, and programming (like javascript, python**)
+- 💭 **Discussion Interests**: Anything, as long i know what the topics are
+- 📩 **Contact**: You can reach me at **faviann.firjatullah@gmail.com**
+- ✨ **Fun Fact**: Sometimes, being alone is better than being in a crowd.
+
+## 🏆 GitHub Achievements
+![Trophy](https://github-profile-trophy.vercel.app/?username=favlh&theme=onedark&column=8)
+
+## 📈 GitHub Statistics
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F76D57&center=true&vCenter=true&width=500&lines=Linux+Server+Enthusiast+🐧;Automation+Lover+🤖;Python+%2B+Bash+Scripter+💻;Anime+Fanboy+🍜;Always+Learning+📚" alt="Typing SVG" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=favlh&show_icons=true&theme=radical" alt="Stats">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=favlh&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
----
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=favlh&theme=radical" alt="Streak">
+</p>
 
-🎓 **Fresh graduate SMK** dengan minat tinggi di dunia **IT**, terutama pada bidang **server management** dan **automation**.  
-Berpengalaman mengelola **Linux server** (Ubuntu, Debian), **Windows Server**, serta scripting menggunakan **Python** dan **Bash**.  
-Saat ini sedang mendalami praktik **GitOps** dan berbagai tools modern untuk meningkatkan efisiensi kerja dan stabilitas infrastruktur.
+<!-- GitHub contribution animation -->
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+<img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
-🧠 Dikenal sebagai pribadi yang **jujur**, **disiplin**, **teliti**, dan **cepat belajar**.  
-Setiap hari diisi dengan eksplorasi teknologi baru dan ngulik sistem sampai ke akar-akarnya.  
-Ngoding sambil dengerin ost anime? Wajib hukumnya 😎
+## 💻 Skills
+### 🛠️ Basic Knowledge
+<p align="left">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" style="margin-right: 10px;" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" style="margin-right: 10px;" />
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="ansible" style="margin-right: 10px;" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="terraform" style="margin-right: 10px;" />
+</p>
 
----
+### 📚 Programming Languages
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" style="margin-right: 10px;" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" style="margin-right: 10px;" />
+</p>
 
-### 🧰 Tech Stack
+## 🤝 Connect With Me
+<p align="left">
+<a href="https://linkedin.com/in/favian-firjatullah-759397311">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://instagram.com/favlh_">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+</p>
 
-bash
-💻 OS      : Linux (Debian/Ubuntu), Windows Server
-📜 Script  : Python, Bash
-⚙️ Tools   : Git, Docker, VSCode, Ansible (belajar)
-📦 Other   : GitOps (pemula), CLI wizardry, Network Troubleshooting
+## 🗨️ GitHub Activity Graph
+[![GitHub Activity Graph for Favian](https://github-readme-activity-graph.vercel.app/graph?username=favlh&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## 🎶 Find Me on Spotify
+<p align="center">
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31x5iokcu2w3vpluwopw2lljno74&redirect=true">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31x5iokcu2w3vpluwopw2lljno74&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" alt="Spotify Profile" />
+</a>
+</p>
 
-🎨 Vibes Saya
-<p align="center"> <img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="300" /> </p>
-"Coding itu kayak anime: makin dalam, makin nggak bisa lepas."
-— Me
-
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=favianfirjatullah&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=favianfirjatullah&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=favianfirjatullah&theme=tokyo-night&hide_border=true" /> </p>
-
-📫 Hubungi Saya
-📮 Email: faviann.firjatullah@gmail.com
-💼 LinkedIn: linkedin.com/in/nfavian-firjatullah
-🧑‍💻 GitHub: github.com/favlh
-
-<p align="center"> <img src="https://animechan.vercel.app/api/random" alt="Anime Quote" /> </p> ```
+### 👀 Profile Views
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=favlh&color=brightgreen" alt="Profile Views">
+</p>
