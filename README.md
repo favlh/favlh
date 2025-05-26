@@ -20,7 +20,7 @@ Ngoding sambil dengerin ost anime? Wajib hukumnya 😎
 
 ### 🧰 Tech Stack
 
-```bash
+bash
 💻 OS      : Linux (Debian/Ubuntu), Windows Server
 📜 Script  : Python, Bash
 ⚙️ Tools   : Git, Docker, VSCode, Ansible (belajar)
