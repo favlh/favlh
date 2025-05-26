@@ -39,4 +39,4 @@ Ngoding sambil dengerin ost anime? Wajib hukumnya 😎
 💼 LinkedIn: linkedin.com/in/nfavian-firjatullah
 🧑‍💻 GitHub: github.com/favlh
 
-<p align="center"> <img src="https://animechan.vercel.app/api/random" alt="Anime Quote" /> </p> ```
+<p align="center"> <img src="https://animechan.vercel.app/api/random" alt="Anime Quote" /> </p>
