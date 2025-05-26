@@ -35,9 +35,8 @@
 </picture>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6gE5aY7N8gXj3eXC/giphy.gif" alt="Anime girl coding" width="300" />
+  <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" alt="Anime girl coding" width="300" />
 </p>
-
 
 ## 💻 Skills
 ### 🛠️ Basic Knowledge
